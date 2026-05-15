@@ -26,7 +26,6 @@ This project focuses on performing Exploratory Data Analysis (EDA) on the Netfli
 - Bar Charts
 - Pie Charts
 - Histograms
-- Heatmaps
 - Line Plots
 
 ## Key Insights
@@ -50,5 +49,4 @@ The project demonstrates how Python can be used to analyze and visualize real-wo
 ## Author
 Vemireddy Sivaprasad Reddy
 
-## Author
-Vemireddy Sivaprasad
+
